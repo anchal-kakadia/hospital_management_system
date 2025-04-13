@@ -5,9 +5,12 @@ A comprehensive, modular software solution to digitize and streamline hospital o
 This system supports hospital administrators, doctors, and patients through an intuitive and role-based portal.
 
 ---
-
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-7.4-blue?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5.7-lightgrey?logo=mysql&logoColor=blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/anchal-kakadia/hospital_management_system)
-![GitHub top language](https://img.shields.io/github/languages/top/anchal-kakadia/hospital_management_system)
 
 ---
 
