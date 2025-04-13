@@ -6,6 +6,15 @@ This system supports hospital administrators, doctors, and patients through an i
 
 ---
 
+![GitHub repo size](https://img.shields.io/github/repo-size/anchal-kakadia/hospital_management_system)
+![GitHub forks](https://img.shields.io/github/forks/anchal-kakadia/hospital_management_system?style=social)
+![GitHub stars](https://img.shields.io/github/stars/anchal-kakadia/hospital_management_system?style=social)
+![GitHub issues](https://img.shields.io/github/issues/anchal-kakadia/hospital_management_system)
+![GitHub last commit](https://img.shields.io/github/last-commit/anchal-kakadia/hospital_management_system)
+![GitHub top language](https://img.shields.io/github/languages/top/anchal-kakadia/hospital_management_system)
+
+---
+
 ## 🚀 Key Features
 
 - ✅ **Patient Registration:** Robust system to register and manage patient records, reducing data entry errors by 30%
@@ -126,4 +135,7 @@ Want to make this better?
 git checkout -b feature/awesome-feature
 git commit -m "Add awesome feature"
 git push origin feature/awesome-feature
+
+---
+
 
