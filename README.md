@@ -7,10 +7,6 @@ This system supports hospital administrators, doctors, and patients through an i
 ---
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/anchal-kakadia/hospital_management_system)
-![GitHub forks](https://img.shields.io/github/forks/anchal-kakadia/hospital_management_system?style=social)
-![GitHub stars](https://img.shields.io/github/stars/anchal-kakadia/hospital_management_system?style=social)
-![GitHub issues](https://img.shields.io/github/issues/anchal-kakadia/hospital_management_system)
-![GitHub last commit](https://img.shields.io/github/last-commit/anchal-kakadia/hospital_management_system)
 ![GitHub top language](https://img.shields.io/github/languages/top/anchal-kakadia/hospital_management_system)
 
 ---
@@ -83,8 +79,9 @@ This system supports hospital administrators, doctors, and patients through an i
 ```bash
 git clone https://github.com/your-username/hospital_management_system.git
 cd hospital_management_system
+```
 
-## 🛢️ Set Up the Database
+### 🛢️ Set Up the Database
 
 1. Launch **phpMyAdmin**: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 2. Create a new database named: `hospital_management`
@@ -92,17 +89,18 @@ cd hospital_management_system
 
 ---
 
-## ⚙️ Configure DB Connection
+### ⚙️ Configure DB Connection
 
 Edit the `includes/config.php` file:
 
-```php
+<?php
 $host = "localhost";
 $username = "root";
 $password = "";
 $database = "hospital_management";
+?>
 
-## ▶️ Run the App
+### ▶️ Run the App
 
 1. Move the project folder to the `htdocs` (XAMPP) or `www` (WAMP) directory
 2. Start **Apache** and **MySQL** from the XAMPP/WAMP control panel
@@ -111,6 +109,7 @@ $database = "hospital_management";
 ```
 http://localhost/hospital_management_system
 
+```
 
 ---
 
